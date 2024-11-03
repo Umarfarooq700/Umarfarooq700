@@ -35,7 +35,7 @@ Wine Can Be Installed Or Uninstalled In `Manage Packages` Menu.
 To Select Wine Container, Use Option 4 In Main Menu.
 Mesa VirGL, Turnip, Wine Mono And Gecko Can Be Installed In Wine Start Menu.
 ## Settings
-### Box86 and Box64 dynarec variables
+### Box86 And Box64 Dynarec Variables
 There Are Two Switchable Menus To Change Dynarec Variables In Mobox Windows Emulator Settings Menu.
 For More Information About Dynarec Variables See [Box64 Usage](https://github.com/ptitSeb/box64/blob/main/docs/USAGE.md) And [Box86 usage](https://github.com/ptitSeb/box86/blob/master/docs/USAGE.md)
 ### System settings
